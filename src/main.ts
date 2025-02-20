@@ -24,10 +24,10 @@ interface Project {
         <h1 style="font-size: 3rem; margin-bottom: 20px;">Indrajeet Giram</h1>
         <p style="font-size: 1.2rem; color: #666;">Full Stack Angular Developer</p>
         <div class="header-social-links">
-          <a href="https://twitter.com/indrajeet" target="_blank" class="header-social-link">
+          <a href="https://x.com/CuriousIndra" target="_blank" class="header-social-link">
             <i class="fab fa-twitter"></i>
           </a>
-          <a href="https://linkedin.com/in/indrajeet" target="_blank" class="header-social-link">
+          <a href="https://www.linkedin.com/in/indrajeetcv/" target="_blank" class="header-social-link">
             <i class="fab fa-linkedin"></i>
           </a>
           <a href="https://wa.me/+919518351482" target="_blank" class="header-social-link">
