@@ -30,7 +30,7 @@ interface Project {
           <a href="https://linkedin.com/in/indrajeet" target="_blank" class="header-social-link">
             <i class="fab fa-linkedin"></i>
           </a>
-          <a href="https://wa.me/yournumber" target="_blank" class="header-social-link">
+          <a href="https://wa.me/+919518351482" target="_blank" class="header-social-link">
             <i class="fab fa-whatsapp"></i>
           </a>
         </div>
